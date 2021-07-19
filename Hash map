@@ -23,3 +23,5 @@ class map1
   }
 
 }
+Output:
+{1=sam,5=john,7=kim}
